@@ -38,8 +38,7 @@ To write a Python program using a class to perform multiplication and floor divi
 ---
 
 ### PROGRAM
-Reg no: 212223020023
-Name: Shanthosh S
+
 
 ```
 class CSE:
